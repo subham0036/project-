@@ -1,3 +1,21 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# vi/vim swap files
 *.swp
+
+# Logs
+*.log*.swp
+
 
 
